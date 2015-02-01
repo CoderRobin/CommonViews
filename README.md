@@ -12,5 +12,7 @@ getCheckedId()
 对外暂时提供了以下接口
 startRippleAnimation
 stopRippleAnimation
+
 效果就是如下图
+
 ![rippleview ](http://coderrobin.com/image/rippleview.gif  "rippleview")
